@@ -122,14 +122,4 @@ Developed by undergraduate researchers from the **University of Moratuwa** and *
 
 ---
 
-## 📫 Contact
-
-For academic collaboration, questions, or internship opportunities:  
-📧 [venumigunasekara801@gmail.com](mailto:venumigunasekara801@gmail.com)
-
----
-
-## 📜 License
-
-This repository is intended for academic and research use only. For clinical deployment or commercial licensing, please contact the authors.
 
